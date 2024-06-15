@@ -14,7 +14,7 @@ nav{
 }
 
 nav ul{
-    display: ;
+    display: flex;
     align-items: center;
     list-style-type: none;
     height: 65px;
@@ -42,7 +42,7 @@ nav ul li{
     background-color: black;
     color: white;
    font-family: 'Varela Round', sans-serif;
-   display: ;
+   display: flex;
    margin: 23px auto;
    width: 70%;
    border-radius: 5px;
